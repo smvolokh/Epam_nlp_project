@@ -1,0 +1,4 @@
+Log file created at: 2021/02/03 21:29:09
+Running on machine: DESKTOP-SG7EL2B
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0203 21:29:09.224025  3060 c_interface.cc:127] Logging enabled to .
